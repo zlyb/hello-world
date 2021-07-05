@@ -1,3 +1,3 @@
 # hello-world
 
-The Big Three.
+The Big Three
